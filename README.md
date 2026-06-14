@@ -1,2 +1,2 @@
 # tdmfashion-terraform-ec2
-terraform project for tdmfashiom
+terraform project for tdmfashion
